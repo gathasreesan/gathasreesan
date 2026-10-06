@@ -1,39 +1,37 @@
 <img src="assets/header.svg" width="100%" alt="Gatha Sreesan"/>
 
-<h2>Connect with me 💫</h2>
+## Connect with me
 
 <p align="center">
   <a href="https://gathasreesan.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-b026ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gathasreesan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gathasreesan@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/gathasreesan"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h2>About Me ✨</h2>
+## About me
 
-- 🎓 B.Tech **Computer Science & Business Systems** student at **RSET**, Kochi
-- 💻 Code ➜ 💃 Dance ➜ 📚 Learn ➜ 🔁 Repeat
-- 🌿 Building **[PromptMeter](https://github.com/gathasreesan/Promptmeter)**: tracking the energy & CO₂ behind every ChatGPT prompt
-- 🤖 Exploring **AI & Machine Learning**, **Human–Computer Interaction** and **Computer Graphics**
-- 🎨 Front-end development & UI design
-- 🎙️ Tech communicator & innovation enthusiast
-- 🩰 Trained in Bharatanatyam (arangetram ✔), now learning contemporary at KSQUAD · part of **Pravaaha**, RSET
-- 📫 Reach me at **gathasreesan@gmail.com**
+I'm a B.Tech Computer Science and Business Systems student at Rajagiri School of Engineering and Technology, Kochi.
 
-<h2>Tech Stack 🛠️</h2>
+- Currently building [PromptMeter](https://github.com/gathasreesan/Promptmeter), a Chrome extension that shows the energy and CO₂ cost of ChatGPT prompts
+- Interested in AI and machine learning, human–computer interaction and computer graphics
+- Learning front-end development and UI design
+- Trained in Bharatanatyam, now learning contemporary dance at KSQUAD and dancing with Pravaaha at RSET
+- Reach me at gathasreesan@gmail.com
+
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,git,github,vscode,figma&theme=dark&perline=10"/>
 </p>
 
-<h2>Featured Projects 🚀</h2>
+## Projects
 
 <p align="center">
   <a href="https://github.com/gathasreesan/Promptmeter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gathasreesan&repo=Promptmeter&theme=radical&hide_border=true&description_lines_count=3"/></a>
   <a href="https://github.com/gathasreesan/gathasreesan.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gathasreesan&repo=gathasreesan.github.io&theme=radical&hide_border=true&description_lines_count=3"/></a>
 </p>
 
-<h2>Stats 📊</h2>
+## Stats
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=gathasreesan&theme=radical&hide_border=true"/>
