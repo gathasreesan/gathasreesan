@@ -15,7 +15,6 @@ I'm a B.Tech Computer Science and Business Systems student at Rajagiri School of
 - Currently building [PromptMeter](https://github.com/gathasreesan/Promptmeter), a Chrome extension that shows the energy and CO₂ cost of ChatGPT prompts
 - Interested in AI and machine learning, human–computer interaction and computer graphics
 - Learning front-end development and UI design
-- Trained in Bharatanatyam, now learning contemporary dance at KSQUAD and dancing with Pravaaha at RSET
 - Reach me at gathasreesan@gmail.com
 
 ## Tech stack
